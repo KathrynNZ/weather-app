@@ -95,3 +95,9 @@ h1 {
   color: blue;
   font-weight: thin;
 }
+
+.footer {
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 12px;
+}
